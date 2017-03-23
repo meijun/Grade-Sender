@@ -1,6 +1,2 @@
-receiver0@example.edu.cn	StudentID0	Name0	Grade0
-receiver1@example.edu.cn	StudentID1	Name1	Grade1
-receiver2@example.edu.cn	StudentID2	Name2	Grade2
-receiver3@example.edu.cn	StudentID3	Name3	Grade3
-receiver4@example.edu.cn	StudentID4	Name4	Grade4
-receiver5@example.edu.cn	StudentID5	Name5	Grade5
+12345@qq.com,id_number,张三丰,1,1,1,1,1,1,1,1,1,1,1,0.9,1,1,1,99.33333333
+54321@qq.com,id_number,张四丰,1,1,1,1,1,1,1,1,1,1,1,0.9,1,1,1,99.33333333
